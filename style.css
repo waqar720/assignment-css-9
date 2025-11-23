@@ -3,13 +3,15 @@
     
     background-colo: lightgrey; 
      width: 60px; 
-     padding: 2px;
+     padding: 2px 2px ; 
+     
      /* border-color: lightcoral; */
      /* border-width: 1px; */
      /* border-style: solid; */
-     margin: 8px;
+     margin: 8px; 
+     border-radius: 15%;
 }
-.heading{
+.discription{
     background-color: antiquewhite;
 }
 #price{
@@ -17,11 +19,35 @@
 }
 .box{
 
-    background-color: white;
-    width: 227px;
+    background-color:lightgreen;
+    width: 203px;
     padding: 20px;
-    border-color: cyan;
+    border-color: rgb(94, 8, 207);
     border-width: 1px;
     border-style: solid;
     margin: 3px;
+}
+.card{
+    background-color: cornsilk;
+    width: 200px;
+    margin: 5px;
+    border-color: cornflowerblue;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    display: inline-block;
+}
+.image{
+    background-color:azure; 
+    width: 200px;
+    border-color: tomato;
+    border-width: 2px; 
+    border-style: solid;
+}
+.card button{
+background-color: lightgray;
+border-radius: 5px;
+padding: 2px 2px;
+padding-left: 7px;
+padding-right: 7px;
 }
