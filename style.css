@@ -1,0 +1,27 @@
+
+ .heading1{
+    
+    background-colo: lightgrey; 
+     width: 60px; 
+     padding: 2px;
+     /* border-color: lightcoral; */
+     /* border-width: 1px; */
+     /* border-style: solid; */
+     margin: 8px;
+}
+.heading{
+    background-color: antiquewhite;
+}
+#price{
+    background-color:rgb(60, 238, 229);
+}
+.box{
+
+    background-color: white;
+    width: 227px;
+    padding: 20px;
+    border-color: cyan;
+    border-width: 1px;
+    border-style: solid;
+    margin: 3px;
+}
