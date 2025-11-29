@@ -28,26 +28,34 @@
     /*margin: 3px;*/
 }
 .card{
-    background-color: cornsilk;
+    background-color: floralwhite;
     width: 200px;
     margin: 5px;
     border-color: cornflowerblue;
     border-width: 2px;
     border-style: solid;
-    padding: 20px;
+    border-radius: 15px;
+    padding: 25px;
     display: inline-block;
 }
 .image{
-    background-color:azure; 
+   background-color:floralwhite; 
     width: 200px;
-    border-color: tomato;
+    padding: 3px;
+    border-color: peru;
     border-width: 2px; 
+    border-radius: 15px;
     border-style: solid;
 }
 .card button{
-background-color: lightgray;
+background-color: coral;    
 border-radius: 5px;
+background-size: 100px;
 padding: 2px 2px;
 padding-left: 7px;
 padding-right: 7px;
+
+}
+.card h1 {
+    font-size: 30px;
 }
