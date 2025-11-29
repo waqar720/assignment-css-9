@@ -1,31 +1,31 @@
 
  .heading1{
-    
+    /*  
     background-colo: lightgrey; 
      width: 60px; 
-     padding: 2px 2px ; 
+     padding: 2px 2px ; */
      
      /* border-color: lightcoral; */
      /* border-width: 1px; */
      /* border-style: solid; */
-     margin: 8px; 
-     border-radius: 15%;
+     /*margin: 8px; */
+    /* border-radius: 15%;*/
 }
 .discription{
-    background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
 }
 #price{
-    background-color:rgb(60, 238, 229);
+    /*background-color:rgb(60, 238, 229);*/
 }
 .box{
 
-    background-color:lightgreen;
-    width: 203px;
-    padding: 20px;
-    border-color: rgb(94, 8, 207);
-    border-width: 1px;
-    border-style: solid;
-    margin: 3px;
+    /*background-color:lightgreen;*/
+    /*width: 203px;*/
+    /*padding: 20px;*/
+    /*border-color: rgb(94, 8, 207);*/
+    /*border-width: 1px;*/
+    /*border-style: solid;*/
+    /*margin: 3px;*/
 }
 .card{
     background-color: cornsilk;
